@@ -1,2 +1,2 @@
-# Scrip tBets
-ScriptBetsBet365
+# Script Crypt Currency
+ScriptCrypt
